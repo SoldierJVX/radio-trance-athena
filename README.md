@@ -1,2 +1,2 @@
-# radio-trance-athena
+# Rádio Trance Athena
 .m3u - Rádio Trance Athena 
